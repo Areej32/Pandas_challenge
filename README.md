@@ -1,4 +1,24 @@
-# Pandas_challenge
+
+# Pandas_challenge Trends and discriptions
+
+Heroes of Pymoli is a fictional game. while studing the provided data i noticed some trends:
+
+1- while count of players are 576, the The majority of the players are Male with (84%),while femle percentage is just (14%)
+
+2- out of the 576 players there is a 258 players who are between 20-24 years old (majority)
+
+3- Although the 20-24 age range has the highest total purchase value,BUT the age range of 35-39 spends the most per item.
+
+4-Most Popular Items is"Oathbreaker, Last Hope of the Breaking Storm." which is the same as Most Profitable Item.
+
+
+
+
+
+
+
+
+
 
 # Unit 4 | Assignment - Pandas, Pandas, Pandas
 
